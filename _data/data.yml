@@ -70,51 +70,26 @@ education:
       #   pretium quis, sem.
       #     - Bullet point
       #     - Bullet point
-# experiences:
-#     - role: Lead Developer
-#       time: 2015 - Present
-#       company: Startup Hubs, San Francisco
-#       details: |
-#         Describe your role here lorem ipsum dolor sit amet, consectetuer
-#         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-#         Cum sociis natoque penatibus et magnis dis parturient montes,
-#         nascetur ridiculus mus. Donec quam felis, ultricies nec,
-#         pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-#         enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-#         error sit voluptatem accusantium doloremque laudantium, totam rem
-#         aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-#         architecto beatae vitae dicta sunt explicabo.
-#           - Bullet point
-#           - Bullet point
-#     - role: Senior Software Engineer
-#       time: 2014 - 2015
-#       company: Google, London
-#       details: |
-#         Describe your role here lorem ipsum dolor sit amet, consectetuer
-#         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-#         Cum sociis natoque penatibus et magnis dis parturient montes,
-#         nascetur ridiculus mus. Donec quam felis, ultricies nec,
-#         pellentesque eu, pretium quis, sem.
-#           - Bullet point
-#           - Bullet point
-#     - role: UI Developer
-#       time: 2012 - 2014
-#       company: Amazon, London
-#       details: |
-#         Describe your role here lorem ipsum dolor sit amet, consectetuer
-#         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-#         Cum sociis natoque penatibus et magnis dis parturient montes,
-#         nascetur ridiculus mus. Donec quam felis, ultricies nec,
-#         pellentesque eu, pretium quis, sem.
-#           - Bullet point
-#           - Bullet point
-# projects:
-#     title: Projects
-#     intro: >
-#       You can list your side projects or open source libraries in this
-#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#     assignments:
+
+experiences:
+    - role: Software Engineer
+      time: Jul 2018 - Jul 2019
+      company: Indica Labs; Albuquerque, NM
+      # details: |
+      #   Joined Indica Labs as an intern during my last semester of undergraduate
+      #   studies at UNM. Advance as software engineer and team manager after
+      #   successful graduation and culmination of internship duties.
+      #     - Designed and implemented features for a collaborative web application utilized in image analysis by over 30 research institutions and labs worldwide, including Fred Hutchinson Cancer Research Center and Johns Hopkins University
+      #     - Lead a team of three software engineers, one software developer intern, and one quality assurance technician as Scrum Master through the planning, development, and testing stages of our product\
+
+    - role: Software Developer Intern
+      time: Jan 2018 - Jun 2018
+      company: Indica Labs; Corrales, NM
+
+    - role: Digital Media Intern
+      time: May 2016 - Jan 2017
+      company: New Mexico Innovation Laboratory; Rio Rancho, NM
+
 #       - title: Velocity
 #         link: "#hook"
 #         tagline: "A responsive website template designed to help startups promote, market and sell their products."
