@@ -9,7 +9,7 @@ description: Beatriz Palacios's personal site
 theme_skin: berry # blue turquoise green berry orange ceramic
 chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
 
-# remote_theme: sharu725/online-cv
+remote_theme: sharu725/online-cv
 
 analytics:
   provider: false
