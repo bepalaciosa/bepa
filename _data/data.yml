@@ -102,13 +102,28 @@ teaching:
     - role: Math Tutor
       time: Aug 2015 - Dec 2015
       company: Center for Academic Program Support; University of New Mexico
+
+projects:
+    title: Projects
+    # intro: >
+    #   You can list your side projects or open source libraries in this
+    #   section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
 #       - title: Velocity
 #         link: "#hook"
 #         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-#       - title: DevStudio
-#         link: "#"
-#         tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: HikerNet
+        icon: "fas fa-walking"
+        # icon: "fas fa-hiking"
+        link: "https://hikernet.rnoc.gatech.edu/#/"
+        tagline: "A research project at Georgia Tech designed to gather crowdsourced, cellular network measurements on hiking trails."
+
+      - title: Grawnola
+        icon: "fas fa-leaf fa-xs"
+        link: "https://grawnola.herokuapp.com/#/"
+        tagline: "An interactive visualization to learn about carbon footprint and to explore how you can offset your own CO\u2082 emitting behviors."
 
 #       - title: Tempo
 #         link: "#"
