@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: bepa(at)gatech(dot)edu
-    website: blog.webjeda.com #do not add http://
+    # website: bepalaciosa.github.io/bepa/ #do not add http://
     linkedin: bepa
     github: bepalaciosa
     # telegram: # add your nickname without '@' sign
@@ -33,29 +33,32 @@ sidebar:
 
     interests:
       - item: Hiking
-        link:
+        # link:
 
       - item: Baking
-        link:
+        # link:
 
       - item: Photography
-        link:
+        # link:
 
 career-profile:
     title: About Me
     summary: |
-      I am a first-year Computer Science PhD student at Georgia Tech in the
+      I am a second-year Computer Science PhD student at Georgia Tech in the
       School of Interactive Computing. I’m broadly interested in Networks and
       HCI, and am hoping to focus on topics around access and education.
 
       I was previously a software engineer at Indica Labs in Albuquerque, New
       Mexico, where I worked as the team lead for the collaborative web
       application, HALO Link. I received my Bachelor of Science in Computer
-      Science at The University of New Mexico (UNM) where I also completed a
-      minor in fine arts through the Interdisciplinary Film and Digital Media
+      Science at The University of New Mexico where I also completed a
+      minor in Fine Arts through the Interdisciplinary Film and Digital Media
       program.
 
 education:
+    - degree: PhD in Computer Science
+      university: Georgia Institute of Technology
+      time: 2019 - 2024
     - degree: BS in Computer Science
       university: The University of New Mexico
       time: 2013 - 2018
