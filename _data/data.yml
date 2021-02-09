@@ -122,7 +122,7 @@ projects:
         icon: "fas fa-walking"
         # icon: "fas fa-hiking"
         link: "https://hikernet.rnoc.gatech.edu/#/"
-        tagline: "A research project at Georgia Tech designed to gather crowdsourced, cellular network measurements on hiking trails."
+        tagline: "A research project at Georgia Tech designed to crowdsource cellular network measurements on hiking trails."
 
       - title: Grawnola
         icon: "fas fa-leaf fa-xs"
