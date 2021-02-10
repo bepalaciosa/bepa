@@ -3,7 +3,6 @@
 #
 
 sidebar:
-    # about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -15,7 +14,7 @@ sidebar:
     email: bepa(at)gatech(dot)edu
     # website: bepalaciosa.github.io/bepa/ #do not add http://
     linkedin: bepa
-    github: bepalaciosa
+    # github: bepalaciosa
     # telegram: # add your nickname without '@' sign
     # gitlab:
     # bitbucket:
@@ -46,7 +45,7 @@ career-profile:
     summary: |
       I am a second-year Computer Science PhD student at Georgia Tech in the
       School of Interactive Computing.
-      I am working with Dr. Ellen Zegura at the Computing and Society Lab.
+      I work with Dr. Ellen Zegura at the Computing and Society Lab.
       My research focuses on measuring and characterizing Internet
       access in underserved communities, particularly in tribal lands in the
       United States. My goal is to inform policy and technological efforts to
@@ -62,7 +61,7 @@ career-profile:
 education:
     - degree: PhD in Computer Science
       university: Georgia Institute of Technology
-      time: 2019 - 2024
+      time: 2019 - 2024 (expected)
     - degree: BS in Computer Science
       university: The University of New Mexico
       time: 2013 - 2018
