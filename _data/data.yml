@@ -74,26 +74,59 @@ education:
       #     - Bullet point
       #     - Bullet point
 
-experiences:
-    - role: Software Engineer
-      time: Jul 2018 - Jul 2019
-      company: Indica Labs; Albuquerque, NM
-      # details: |
-      #   Joined Indica Labs as an intern during my last semester of undergraduate
-      #   studies at UNM. Advance as software engineer and team manager after
-      #   successful graduation and culmination of internship duties.
-      #     - Designed and implemented features for a collaborative web application utilized in image analysis by over 30 research institutions and labs worldwide, including Fred Hutchinson Cancer Research Center and Johns Hopkins University
-      #     - Lead a team of three software engineers, one software developer intern, and one quality assurance technician as Scrum Master through the planning, development, and testing stages of our product\
+projects:
+    title: Projects
+    # intro: >
+    #   You can list your side projects or open source libraries in this
+    #   section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: HikerNet
+        icon: "fas fa-walking"
+        # icon: "fas fa-hiking"
+        link: "https://hikernet.rnoc.gatech.edu/#/"
+        tagline: "A research project at Georgia Tech designed to crowdsource cellular network measurements on hiking trails."
 
-    - role: Software Developer Intern
-      time: Jan 2018 - Jun 2018
-      company: Indica Labs; Corrales, NM
+      - title: Grawnola
+        icon: "fas fa-leaf fa-xs"
+        link: "https://grawnola.herokuapp.com/#/"
+        tagline: "An interactive visualization to learn about carbon footprint and to explore how you can offset your own CO\u2082 emitting behviors."
 
-    - role: Digital Media Intern
-      time: May 2016 - Jan 2017
-      company: New Mexico Innovation Laboratory; Rio Rancho, NM
+publications:
+    title: Papers and Presentations
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
+    papers:
+      - title: Measuring and Improving Underserved Community Access
+#         link: "#"
+        authors: <strong>Beatriz Palacios Abad</strong>, Elizabeth Belding, Morgan Vigil-Hayes, Ellen Zegura
+        conference: NSF Workshop on Overcoming Measurement Barriers to Internet Research (WOMBIR 2021)
+
+      - title: "WallStreetBets: Positions or Ban"
+        link: "https://arxiv.org/abs/2101.12110"
+        authors: Christian Boylston, <strong>Beatriz Palacios</strong>, Plamen Tassev, Amy Bruckman
+        conference: "Design of Online Communities, Spring 2020 (not peer reviewed)"
+
+#       - title: A syntax directed compiler for Algol 60
+#         link: "#"
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
 
 teaching:
+  # - role: Guest Lecture Ethics and Politics of Technology
+  #     time: Jun 2020
+  #     company: College of Computing; Georgia Tech
+
+    - role: "Guest Lecturer: Ethics and Politics of Technology"
+      time: Jun 2020
+      company: College of Computing; Georgia Tech
+
+    - role: Graduate Teaching Assistant
+      time: May 2020 - Jul 2020
+      company: College of Computing; Georgia Tech
+
     - role: Volunteer Facilitator
       time: Oct 2018 - Jul 2019
       company: Girls Who Code; Albuquerque, NM
@@ -106,61 +139,18 @@ teaching:
       time: Aug 2015 - Dec 2015
       company: Center for Academic Program Support; University of New Mexico
 
-projects:
-    title: Projects
-    # intro: >
-    #   You can list your side projects or open source libraries in this
-    #   section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-#       - title: Velocity
-#         link: "#hook"
-#         tagline: "A responsive website template designed to help startups promote, market and sell their products."
+experiences:
+    - role: Software Engineer
+      time: Jul 2018 - Jul 2019
+      company: Indica Labs; Albuquerque, NM
 
-      - title: HikerNet
-        icon: "fas fa-walking"
-        # icon: "fas fa-hiking"
-        link: "https://hikernet.rnoc.gatech.edu/#/"
-        tagline: "A research project at Georgia Tech designed to crowdsource cellular network measurements on hiking trails."
+    - role: Software Developer Intern
+      time: Jan 2018 - Jun 2018
+      company: Indica Labs; Corrales, NM
 
-      - title: Grawnola
-        icon: "fas fa-leaf fa-xs"
-        link: "https://grawnola.herokuapp.com/#/"
-        tagline: "An interactive visualization to learn about carbon footprint and to explore how you can offset your own CO\u2082 emitting behviors."
-
-#       - title: Tempo
-#         link: "#"
-#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-#       - title: Atom
-#         link: "#"
-#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-#       - title: Delta
-#         link: "#"
-#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-# publications:
-#     title: Publications
-#     intro: |
-#       You can list your publications in this section. Lorem ipsum dolor sit
-#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-#       bibendum fringilla a eu lectus.
-#     papers:
-#       - title: The Art of Computer Programming
-#         link: "#"
-#         authors: Donald E. Knuth
-#         conference: Addison-Wesley, 1968
-
-#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-#         link: "#"
-#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-#       - title: A syntax directed compiler for Algol 60
-#         link: "#"
-#         authors: Edgar T. Irons
-#         conference: "Comm. ACM 4 (1961), 51–55"
+    - role: Digital Media Intern
+      time: May 2016 - Jan 2017
+      company: New Mexico Innovation Laboratory; Rio Rancho, NM
 
 # skills:
 #     title: Skills &amp; Proficiency
