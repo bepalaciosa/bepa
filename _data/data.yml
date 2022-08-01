@@ -99,6 +99,11 @@ publications:
 #       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
 #       bibendum fringilla a eu lectus.
     papers:
+      - title: Note: Towards Community-Empowered Network Data Action
+        link: https://dl.acm.org/doi/10.1145/3530190.3534836
+        authors: <strong>Beatriz Palacios Abad</strong>, Elizabeth Belding, Morgan Vigil-Hayes, Ellen Zegura
+        conference: COMPASS 2022
+
       - title: Measuring and Improving Underserved Community Access
 #         link: "#"
         authors: <strong>Beatriz Palacios Abad</strong>, Elizabeth Belding, Morgan Vigil-Hayes, Ellen Zegura
