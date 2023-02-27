@@ -105,6 +105,9 @@ publications:
 #       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
 #       bibendum fringilla a eu lectus.
     papers:
+      - title: "Alone and Together: Resilience in a Fluid Socio-Technical-Natural System"
+        authors: <strong>Beatriz Palacios Abad</strong>, Morgan Vigil-Hayes, Ellen Zegura
+        conference: "To appear in ACM SIGCHI Computer Supported Collaborative Work (CSCW) 2023"
       - title: "Note: Towards Community-Empowered Network Data Action"
         link: "https://dl.acm.org/doi/10.1145/3530190.3534836"
         authors: <strong>Beatriz Palacios Abad</strong>, Elizabeth Belding, Morgan Vigil-Hayes, Ellen Zegura
