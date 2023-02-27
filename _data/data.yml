@@ -82,6 +82,11 @@ projects:
     #   section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
+      - title: CellWatch
+        icon: "fas fa-broadcast-tower"
+        link: "https://sites.gatech.edu/cellwatch/"
+        tagline: "An open-source cellular network measurement suite in collaboration with researchers at UC Santa Barbara and Northern Arizona University."
+
       - title: HikerNet
         icon: "fas fa-walking"
         # icon: "fas fa-hiking"
@@ -90,7 +95,7 @@ projects:
 
       - title: Grawnola
         icon: "fas fa-leaf fa-xs"
-        link: "https://grawnola.herokuapp.com/#/"
+        # link: "https://grawnola.herokuapp.com/#/"
         tagline: "An interactive visualization to learn about carbon footprint and to explore how you can offset your own CO\u2082 emitting behviors."
 
 publications:
