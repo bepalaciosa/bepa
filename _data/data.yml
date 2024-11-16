@@ -7,8 +7,8 @@ sidebar:
 
     # Profile information
     name: Beatriz E. Palacios Abad
-    tagline: Graduate Research Assistant at Georgia Tech
-    # avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    tagline: "PhD Candidate at <br> Georgia Tech"
+    avatar: profile2024.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: bepa(at)gatech(dot)edu
@@ -28,7 +28,7 @@ sidebar:
         level: Native
 
       - idiom: English
-        level: Fluent
+        level: Bilingual
 
     interests:
       - item: Hiking
@@ -43,26 +43,31 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-      I am a Computer Science PhD student in the
+      <strong>I am currently seeking post-doctoral and tenure track
+      opportunities starting in the late summer or fall of 2025.</strong>
+
+      I am a Computer Science PhD candidate in the
       School of Interactive Computing at Georgia Tech.
       I work with Dr. Ellen Zegura at the Computing and Society Lab.
-      My research focuses on measuring and characterizing Internet
-      access and quality of coverage in underserved communities, particularly
-      in tribal lands in the United States.
-      My goal is to inform policy and technological efforts in the pursuit
-      of digital inclusion.
+      My research lies at the intersection of networking, policy, and 
+      human-centered computing, with a focus on mobile broadband mapping.
+      I am interested in measuring and characterizing Internet access and
+      quality of coverage in marginalized communities,
+      particularly in rural and Tribal lands in the United States.
+      My goal is to support community organizing and self-advocacy
+      efforts in the pursuit of digital inclusion.
 
       I was previously a software engineer at Indica Labs in Albuquerque, New
-      Mexico, where I worked as the team lead for the collaborative web
-      application, HALO Link. I received my Bachelor of Science in Computer
-      Science at The University of New Mexico where I also completed a
-      minor in Fine Arts through the Interdisciplinary Film and Digital Media
-      program.
+      Mexico, where I served as Scrum Master for the collaborative web
+      application, HALO Link.
+      I received my Bachelor of Science in Computer Science at The University
+      of New Mexico where I also completed a minor in Fine Arts through the
+      Interdisciplinary Film and Digital Media program.
 
 education:
     - degree: PhD in Computer Science
       university: Georgia Institute of Technology
-      time: 2019 - current
+      time: 2019 - 2025
     - degree: BS in Computer Science
       university: The University of New Mexico
       time: 2013 - 2018
@@ -99,16 +104,25 @@ projects:
         tagline: "An interactive visualization to learn about carbon footprint and to explore how you can offset your own CO\u2082 emitting behviors."
 
 publications:
-    title: Papers and Presentations
+    title: Papers and Posters
 #     intro: |
 #       You can list your publications in this section. Lorem ipsum dolor sit
 #       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
 #       bibendum fringilla a eu lectus.
     papers:
+      - title: "Mending the Fabric: the Contentious, Collaborative Work of Repairing Broadband Maps"
+        link: "https://dl.acm.org/doi/10.1145/3687003"
+        authors: <strong>Beatriz Palacios Abad</strong>, Elizabeth Belding, Morgan Vigil-Hayes, Ellen Zegura
+        conference: "ACM SIGCHI Computer Supported Collaborative Work (CSCW) 2024"
+        awards:
+          - "Best Paper Award"
+          - "Impact Recognition"
+
       - title: "Alone and Together: Resilience in a Fluid Socio-Technical-Natural System"
         link: "https://dl.acm.org/doi/abs/10.1145/3579457"
         authors: <strong>Beatriz Palacios Abad</strong>, Morgan Vigil-Hayes, Ellen Zegura
         conference: "ACM SIGCHI Computer Supported Collaborative Work (CSCW) 2023"
+
       - title: "Note: Towards Community-Empowered Network Data Action"
         link: "https://dl.acm.org/doi/10.1145/3530190.3534836"
         authors: <strong>Beatriz Palacios Abad</strong>, Elizabeth Belding, Morgan Vigil-Hayes, Ellen Zegura
@@ -139,6 +153,14 @@ teaching:
   #     company: College of Computing; Georgia Tech
 
     - role: "Head Graduate Teaching Assistant"
+      time: May 2023 - July 2023
+      company: College of Computing; Georgia Tech
+      details: |
+        CS 3251: Computer Networking I
+          - Instructor: Ellen Zegura
+          - Class size: 30
+
+    - role: "Head Graduate Teaching Assistant"
       time: Jan 2022 - May 2022
       company: College of Computing; Georgia Tech
       details: |
@@ -167,6 +189,9 @@ teaching:
       company: Center for Academic Program Support; University of New Mexico
 
 experiences:
+    - role: Graduate Summer Intern
+      time: May 2021 - Jul 2021
+      company: MuralNet; Albuquerque, NM
     - role: Software Engineer
       time: Jul 2018 - Jul 2019
       company: Indica Labs; Albuquerque, NM
